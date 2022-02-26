@@ -17,4 +17,4 @@ Only needed to enter your Word's path and the target PDF path, and let the progr
 - Only supported in Windows.
 
 ## Download
-You may run [the python file](word2pdf.py) yourself for dev, or just [download the software](https://github.com/katorlys/word2pdf/raw/main/dist/word2pdf.exe).  
+You may run [the python file](word2pdf.py) yourself for dev, or just [download the software](https://github.com/katorlys/word2pdf/raw/main/word2pdf.exe).  
